@@ -1,3 +1,4 @@
+![fake btc](https://github.com/user-attachments/assets/8828f386-9585-46e6-b51e-c61a3930f671)
 # Fakecrypto
 The Fake CRYPTO sender software Fake BTC USDT ETH BUSD
 Crypto F Transaction is a malware developed by the FCryptoCoder group which allows you to install a firewall in the token system to allow the sending of different cryptocurrencies on the blockchain network. It sends 4 different cryptos: Bitcoin, Ethereum, USDT and BUSD.
